@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Servidor\\Documents\\Angelo\\2025-1\\Laborat\u00F3rio Programa\u00E7\u00E3o\\FiladeAtendimento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE13CE10-7C76-4310-BAAF-FE384AD79577}|FiladeAtendimento\\FiladeAtendimento.csproj|c:\\users\\servidor\\documents\\angelo\\2025-1\\laborat\u00F3rio programa\u00E7\u00E3o\\filadeatendimento\\filadeatendimento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE13CE10-7C76-4310-BAAF-FE384AD79577}|FiladeAtendimento\\FiladeAtendimento.csproj|solutionrelative:filadeatendimento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Servidor\\Documents\\Angelo\\2025-1\\Laborat\u00F3rio Programa\u00E7\u00E3o\\FiladeAtendimento\\FiladeAtendimento\\Program.cs",
+              "RelativeDocumentMoniker": "FiladeAtendimento\\Program.cs",
+              "ToolTip": "C:\\Users\\Servidor\\Documents\\Angelo\\2025-1\\Laborat\u00F3rio Programa\u00E7\u00E3o\\FiladeAtendimento\\FiladeAtendimento\\Program.cs",
+              "RelativeToolTip": "FiladeAtendimento\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T21:44:04.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\FiladeAtendimento\FiladeAtendimento\bin\Debug\net8.0\FiladeAtendimento.exe
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\FiladeAtendimento\FiladeAtendimento\bin\Debug\net8.0\FiladeAtendimento.deps.json
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\FiladeAtendimento\FiladeAtendimento\bin\Debug\net8.0\FiladeAtendimento.runtimeconfig.json
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\FiladeAtendimento\FiladeAtendimento\bin\Debug\net8.0\FiladeAtendimento.dll
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\FiladeAtendimento\FiladeAtendimento\bin\Debug\net8.0\FiladeAtendimento.pdb
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\FiladeAtendimento\FiladeAtendimento\obj\Debug\net8.0\FiladeAtendimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\FiladeAtendimento\FiladeAtendimento\obj\Debug\net8.0\FiladeAtendimento.AssemblyInfoInputs.cache
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\FiladeAtendimento\FiladeAtendimento\obj\Debug\net8.0\FiladeAtendimento.AssemblyInfo.cs
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\FiladeAtendimento\FiladeAtendimento\obj\Debug\net8.0\FiladeAtendimento.csproj.CoreCompileInputs.cache
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\FiladeAtendimento\FiladeAtendimento\obj\Debug\net8.0\FiladeAtendimento.dll
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\FiladeAtendimento\FiladeAtendimento\obj\Debug\net8.0\refint\FiladeAtendimento.dll
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\FiladeAtendimento\FiladeAtendimento\obj\Debug\net8.0\FiladeAtendimento.pdb
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\FiladeAtendimento\FiladeAtendimento\obj\Debug\net8.0\FiladeAtendimento.genruntimeconfig.cache
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\FiladeAtendimento\FiladeAtendimento\obj\Debug\net8.0\ref\FiladeAtendimento.dll

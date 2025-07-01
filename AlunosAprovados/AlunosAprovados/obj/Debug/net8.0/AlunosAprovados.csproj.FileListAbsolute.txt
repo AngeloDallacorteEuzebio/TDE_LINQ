@@ -1,0 +1,14 @@
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\AlunosAprovados\AlunosAprovados\obj\Debug\net8.0\AlunosAprovados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\AlunosAprovados\AlunosAprovados\obj\Debug\net8.0\AlunosAprovados.AssemblyInfoInputs.cache
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\AlunosAprovados\AlunosAprovados\obj\Debug\net8.0\AlunosAprovados.AssemblyInfo.cs
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\AlunosAprovados\AlunosAprovados\obj\Debug\net8.0\AlunosAprovados.csproj.CoreCompileInputs.cache
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\AlunosAprovados\AlunosAprovados\bin\Debug\net8.0\AlunosAprovados.exe
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\AlunosAprovados\AlunosAprovados\bin\Debug\net8.0\AlunosAprovados.deps.json
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\AlunosAprovados\AlunosAprovados\bin\Debug\net8.0\AlunosAprovados.runtimeconfig.json
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\AlunosAprovados\AlunosAprovados\bin\Debug\net8.0\AlunosAprovados.dll
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\AlunosAprovados\AlunosAprovados\bin\Debug\net8.0\AlunosAprovados.pdb
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\AlunosAprovados\AlunosAprovados\obj\Debug\net8.0\AlunosAprovados.dll
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\AlunosAprovados\AlunosAprovados\obj\Debug\net8.0\refint\AlunosAprovados.dll
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\AlunosAprovados\AlunosAprovados\obj\Debug\net8.0\AlunosAprovados.pdb
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\AlunosAprovados\AlunosAprovados\obj\Debug\net8.0\AlunosAprovados.genruntimeconfig.cache
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\AlunosAprovados\AlunosAprovados\obj\Debug\net8.0\ref\AlunosAprovados.dll
